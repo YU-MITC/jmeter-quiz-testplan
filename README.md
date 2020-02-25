@@ -18,11 +18,6 @@ Installation
 
 Please see installation manual.
 
-
-Remarks
-------
-* Please use non-Windows PC (ex. Linux, macOS, etc.) for JMeter client.
-
 Change log of JMeter Quiz Test Plan
 ------
 
