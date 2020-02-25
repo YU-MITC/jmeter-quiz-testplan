@@ -11,6 +11,7 @@ Requirements
 ------
 * Apache JMeter.
 * Oracle Java Runtime (or OpenJDK) 8.0 or later version.
+* Non Windows PC (ex. Linux, macOS, etc.) for JMeter Client.
 
 Installation
 ------
