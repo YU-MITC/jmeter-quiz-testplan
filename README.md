@@ -1,4 +1,4 @@
-# jmeter-quiz-testplan
+# JMeter Quiz Test Plan (jmeter-quiz-testplan)
 JMeter test plan file for simulating the behavior of simultaneous quiz on the Moodle
 
 Summary
