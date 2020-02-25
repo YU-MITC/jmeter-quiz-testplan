@@ -18,6 +18,12 @@ Installation
 
 Please see installation manual.
 
+Remarks
+------
+
+The JMeter does not interpret or display received web pages.
+In actual operating environments, the time required for interpreting and displaying web pages is added.
+
 Change log of JMeter Quiz Test Plan
 ------
 
