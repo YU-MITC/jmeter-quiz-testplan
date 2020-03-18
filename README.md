@@ -1,5 +1,5 @@
 # JMeter Quiz Test Plan (jmeter-quiz-testplan)
-JMeter test plan file for simulating the behavior of simultaneous quiz on the Moodle
+JMeter test plan file for simulating the behavior of simultaneous quiz on the Moodle 3.x
 
 Summary
 ------
@@ -10,6 +10,7 @@ The quiz has 20 questions.
 
 Requirements
 ------
+* Moodle 3.x.
 * Apache JMeter.
 * Oracle Java Runtime (or OpenJDK) 8.0 or later version.
 * Non Windows PC (ex. Linux, macOS, etc.) for JMeter Client.
