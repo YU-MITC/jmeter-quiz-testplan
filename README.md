@@ -4,7 +4,7 @@ JMeter test plan file for simulating the behavior of simultaneous quiz on the Mo
 Summary
 ------
 
-This is a JMeter test plan file (JMX file) for simulating the behavior of simultaneous quiz on the Moodle.
+This is a JMeter test plan file (JMX file) for simulating the behavior of simultaneous quiz on the Moodle 3.x.
 By default, the start time range for students is 5 seconds, and the range for sending responses is 60 seconds.
 The quiz has 20 questions.
 
