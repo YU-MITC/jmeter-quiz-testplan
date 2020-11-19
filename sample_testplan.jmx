@@ -1282,7 +1282,7 @@
               <collectionProp name="HeaderManager.headers">
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">${scheme}://${servername}/${rootdir}/mod/quiz/view.php?id=90</stringProp>
+                  <stringProp name="Header.value">${scheme}://${servername}/${rootdir}/mod/quiz/view.php?id=${cmid}</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Language" elementType="Header">
                   <stringProp name="Header.name">Accept-Language</stringProp>
